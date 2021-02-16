@@ -1,0 +1,33 @@
+body {
+  background-color: chartreuse;
+  text-align: center;
+  margin: 0 auto;
+}
+p {
+  font-size: 5px;
+}
+
+.wrap {
+  background-color: aqua;
+  width: 505px;
+  height: 766px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.main {
+  background-color: burlywood;
+  text-align: center;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.pics {
+  background-color: crimson;
+  text-align: center;
+  margin: 0 auto;
+  width: 400px;
+}
+.btns {
+  background-color: darkmagenta;
+}
