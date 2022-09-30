@@ -1,3 +1,3 @@
 # pushBtn_changePics
-ボタンを押すと写真が変わるっていうやつです．<br>
+ボタンを押すと画像が変わる<br>
 https://tom4c3.github.io/pushBtn_changePics/
